@@ -6,4 +6,4 @@
 
 ## ERD
 
-![ERD](https://github.com/SOPT-25-Collaboration/sopt-25-collaboration-gs/tree/master/static/image/erd.PNG)
+![ERD](https://raw.githubusercontent.com/SOPT-25-Collaboration/sopt-25-collaboration-gs/master/static/image/erd.PNG)
